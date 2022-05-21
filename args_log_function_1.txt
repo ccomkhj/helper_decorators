@@ -1,0 +1,10 @@
+""" function_1: 
+== Args 
+a: <class 'int'>
+b: <class 'int'>
+c: <class 'str'>
+== Returns
+<class 'str'>
+<class 'int'>
+<class 'numpy.ndarray'>
+"""
